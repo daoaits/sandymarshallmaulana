@@ -1,0 +1,32 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+header {
+    padding: 10px;
+    border-radius: 60px;
+    background-color: aqua;
+
+    text-align: center;
+}
+header h2{
+    color: white;
+    text-shadow: #333 1px 1px 1px;
+}
+footer {
+    padding: 10px;
+    background-color: aqua;
+    border-radius: 10px;
+    color: #f4f4f4;
+    text-shadow: #333 1px 1px 1px;
+}
+footer span{
+    color: #2980b9;
+}
+.areef {
+    margin: 5px;
+}
+.areef a {
+    text-decoration: none;
+}
+
